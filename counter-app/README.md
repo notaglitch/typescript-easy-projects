@@ -26,3 +26,4 @@ A simple counter application built using HTML, CSS (with TailwindCSS), and TypeS
 
 1. Clone this repository to your local machine:
    ```bash
+   https://github.com/notaglitch/typescript-easy-projects/tree/4cdcc2d7d67f974ac2d5f21dd66c79f295c45d89/counter-app
