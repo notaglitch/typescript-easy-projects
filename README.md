@@ -7,7 +7,7 @@ Welcome to the **TypeScript Easy Projects** repository! This repository contains
 1. **CounterApp**  
    A simple counter application where users can increase, decrease, and reset a counter value.
 
-   - [CounterApp Source Code](https://github.com/notaglitch/typescript-easy-projects/tree/main/CounterApp)
+   - [CounterApp Source Code]([https://github.com/notaglitch/typescript-easy-projects/tree/main/CounterApp](https://github.com/notaglitch/typescript-easy-projects/tree/e9c655bf9e87d0275a411ca3003e8c04488f0502/counter-app))
 
 2. (Add additional projects here in a similar format)
 
